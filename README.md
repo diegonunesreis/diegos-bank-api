@@ -22,7 +22,7 @@ To set up and run the Node.js Bank Transaction Simulator on your local machine:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/node-bank-simulator.git
+   https://github.com/diegonunesreis/diegos-bank-api.git
    ```
 
 2. Install the dependencies.
